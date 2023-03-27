@@ -1,0 +1,10 @@
+{
+    "app" : {
+        "name" : "Service Name Development"
+    },
+    "db" :{
+        "test" : {
+            "host" : "host untuk testing"
+        }
+    }
+}
